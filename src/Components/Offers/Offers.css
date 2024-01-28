@@ -41,7 +41,7 @@
     cursor: pointer;
 }
 .offers-right{
-    flex: 1;
+    flex:1;
      display: flex;
      align-items:center ;
      justify-content:flex-end;
